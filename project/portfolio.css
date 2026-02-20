@@ -548,9 +548,9 @@ body {
     box-shadow:
         0 8px 32px 0 rgba(0, 0, 0, 0.4),
         inset 0 0 0 1px rgba(255, 255, 255, 0.05);
-    backdrop-filter: blur(40px) saturate(180%);
-    -webkit-backdrop-filter: blur(40px) saturate(180%);
-    animation: navGlow 4s infinite ease-in-out;
+    backdrop-filter: blur(60px) saturate(180%);
+    -webkit-backdrop-filter: blur(60px) saturate(180%);
+    /* animation: navGlow 4s infinite ease-in-out; */
 }
 
 .nav_bar.scrolled .logo h2 {
